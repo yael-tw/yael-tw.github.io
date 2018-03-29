@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Scrambled eggs with sautéed vegetables
 
-You can use the [editor on GitHub](https://github.com/yael-tw/yael-tw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This recipe describes how to create a delicious and nutritious breakfast for two.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### To cook scrambled eggs with vegetables:
+1.	Chop the vegetables:
+    + Onion
+    + Mushrooms
+    + Tomato
+2.	In a greased frying pan, sauté the onions until transparent.
+3.	Add the mushrooms to the pan and sauté until brown.
+4.	Turn off the burner and set the frying pan aside.
+5.	In a mixing bowl, beat two eggs until blended.
+6.	Add the sautéed vegetables, chopped tomato, and spices to the egg mixture.
+7.	Add more oil to the frying pan and pour in the egg and vegetable mixture.
+8.	Cook and stir until the eggs are set (approximately five minutes).  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yael-tw/yael-tw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> **Tip:** To serve more people or create larger portions, add one egg per serving.
